@@ -1,4 +1,4 @@
-# write your chat directory below
+# type your chat directory below
 file = open("/Users/aryanneizehbaz/Downloads/chat checker.txt","r")
 file2 = open("emotes.txt","r")
 emotes=["lol","lmao","keepo","yep","pog"]
